@@ -38,7 +38,7 @@ You can open the website by click: https://yhuangxu.github.io/HomepageOfYanwen/ 
 Yanwen Huangxu
 
 ## Presentation
-![presentation](https://youtu.be/NDfYkA6cyTE) 
+Presentation link: (https://youtu.be/c_HnH396iDY)
 Slides for presentation: (https://docs.google.com/presentation/d/1OlqqYo5iMbQtOXVEl3y_TfzPjziu_p_xydMwK906IM0/edit?usp=sharing)
 
 ## License
