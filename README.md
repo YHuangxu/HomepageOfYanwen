@@ -38,10 +38,19 @@ You can open the website by click: https://yhuangxu.github.io/HomepageOfYanwen/ 
 Yanwen Huangxu
 
 ## Screenshot
-![screenshot](https://drive.google.com/open?id=1J_a5V7R_fHufc48AqvaCqgJTv6jMbcdb)
+Homepage:
+![screenshot](https://farm5.staticflickr.com/4917/33061182298_a9c80b0cfc_z.jpg)
+![screenshot](https://farm8.staticflickr.com/7803/46936584581_876c4e1e6e_k.jpg)
+![screenshot](https://farm8.staticflickr.com/7867/46022662375_9d2511c4da_k.jpg)
+![screenshot](https://farm8.staticflickr.com/7857/33061180348_8d8baeb422_k.jpg)
+![screenshot](https://farm8.staticflickr.com/7825/33061179338_c6539611c2_k.jpg)
+![screenshot](https://farm8.staticflickr.com/7875/46022663935_bcd928cabb_k.jpg)
+Hobbies page:
+![screenshot](https://farm5.staticflickr.com/4830/33061177688_d0504a1760_k.jpg)
+![screenshot](https://farm8.staticflickr.com/7890/33061175908_5a36fe031c_k.jpg)
 
 ## Presentation
-![presentation](https://drive.google.com/open?id=1J_a5V7R_fHufc48AqvaCqgJTv6jMbcdb)
+![presentation](https://drive.google.com/open?id=1J_a5V7R_fHufc48AqvaCqgJTv6jMbcdb) Slides for presentation: (https://docs.google.com/presentation/d/1OlqqYo5iMbQtOXVEl3y_TfzPjziu_p_xydMwK906IM0/edit?usp=sharing)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
